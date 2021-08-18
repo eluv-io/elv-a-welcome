@@ -7,6 +7,7 @@ The following quick start steps will allow you to create and onboard content adm
 
 **FOR THE DEMO NETWORK**
 1. Browse to ​https://core.demov3.contentfabric.io
+
 **FOR THE PRODUCTION NETWORK**
 1. Browse to https://core.v3.contentfabric.io
 
