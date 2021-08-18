@@ -30,7 +30,7 @@ The following quick start steps will allow you to create and onboard content adm
 7. When you want to log in to utilize the Fabric Browser, Video Editor, etc. click the Account Name, and you will be prompted to enter your wallet password set in 3 above to unlock the account​ and you are “logged in”. To switch accounts use the control in upper right corner. Switching effectively locks the previous account’s wallet and unlocks the target next account’s wallet. You will be prompted to enter your wallet passphrase when you do this.
 
 
-Overview of Key APIs and Tools:
+**Overview of Key APIs and Tools**
 
 **Client APIs**
 - Start https://eluv-io.github.io/elv-client-js/ElvClient.html for an overview of the client API for publishing, playout, viewing, and minting.
