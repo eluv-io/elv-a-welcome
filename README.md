@@ -5,10 +5,13 @@ The following quick start steps will allow you to create and onboard content adm
 
 **Onboarding the Eluvio Content Fabric** 
 
-**FOR THE DEMO NETWORK** - Browse to ​https://core.demov3.contentfabric.io
-**FOR THE PRODUCTION NETWORK** - Browse to https://core.v3.contentfabric.io
-3.	Click ​Accounts​, ​Add Account,​ and ​Mneumonic
-4.	Click ​Generate Mneumonic. ​Copy the resulting mneumonic displayed for safe keeping.
+**FOR THE DEMO NETWORK**
+1. Browse to ​https://core.demov3.contentfabric.io
+**FOR THE PRODUCTION NETWORK**
+1. Browse to https://core.v3.contentfabric.io
+
+2.	Click ​Accounts​, ​Add Account,​ and ​Mneumonic
+3.	Click ​Generate Mneumonic. ​Copy the resulting mneumonic displayed for safe keeping.
 
 ![image](https://user-images.githubusercontent.com/30604947/129946672-b57b92c3-b3c1-494b-b6a5-1022ebc89f56.png)
 
