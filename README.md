@@ -33,26 +33,26 @@ The following quick start steps will allow you to create and onboard content adm
 Overview of Key APIs and Tools:
 
 **Client APIs**
--Start https://eluv-io.github.io/elv-client-js/ElvClient.html for an overview of the client API for publishing, playout, viewing, and minting.
--To publish full length content start here https://eluv-io.github.io/elv-client-js/abr/index.html
+- Start https://eluv-io.github.io/elv-client-js/ElvClient.html for an overview of the client API for publishing, playout, viewing, and minting.
+- To publish full length content start here https://eluv-io.github.io/elv-client-js/abr/index.html
 
 **Here are a few particular topics of interest:**
 
--Streaming https://github.com/eluv-io/elv-stream-sample
--Publishing Content https://eluv-io.github.io/elv-client-js/abr/index.html
--Content Management https://eluv-io.github.io/elv-client-js/#editing
+- Streaming https://github.com/eluv-io/elv-stream-sample
+- Publishing Content https://eluv-io.github.io/elv-client-js/abr/index.html
+- Content Management https://eluv-io.github.io/elv-client-js/#editing
 
 **Other APIs**
--Site Search https://github.com/eluv-io/elv-search
--ML Tagging  https://github.com/eluv-io/elv-tagger
--Bitcode https://github.com/eluv-io/content-bitcode
+- Site Search https://github.com/eluv-io/elv-search
+- ML Tagging  https://github.com/eluv-io/elv-tagger
+- Bitcode https://github.com/eluv-io/content-bitcode
 
 
 **Applications** 
 Many of our applications are fully open source and can be used as a reference.
 
--Site Sample https://github.com/eluv-io/elv-site-sample
--Fabric Browser https://github.com/eluv-io/elv-fabric-browser
--Asset Manager https://github.com/eluv-io/elv-asset-manager
--Video Player https://github.com/eluv-io/elv-player-js
--Video Editor https://github.com/eluv-io/elv-video-editor
+- Site Sample https://github.com/eluv-io/elv-site-sample
+- Fabric Browser https://github.com/eluv-io/elv-fabric-browser
+- Asset Manager https://github.com/eluv-io/elv-asset-manager
+- Video Player https://github.com/eluv-io/elv-player-js
+- Video Editor https://github.com/eluv-io/elv-video-editor
