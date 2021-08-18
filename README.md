@@ -1,7 +1,9 @@
-# elv-test-assets
-# welcome
 
-Onboarding the Eluvio Content Fabric - Demo Network
+# Welcome to the Eluvio Content Fabric 
+
+The following quick start steps will allow you to create and onboard content administrator accounts in your tenancy.
+
+**Onboarding the Eluvio Content Fabric** - **Demo Network**
 
 1.	Browse to ​https://core.demov3.contentfabric.io
 2.	Click ​Accounts​, ​Add Account,​ and ​Mneumonic
