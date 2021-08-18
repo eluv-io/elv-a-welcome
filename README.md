@@ -11,6 +11,8 @@ The following quick start steps will allow you to create and onboard content adm
 **FOR THE PRODUCTION NETWORK**
 1. Browse to https://core.v3.contentfabric.io
 
+**THEN**
+
 2.	Click ​Accounts​, ​Add Account,​ and ​Mneumonic
 3.	Click ​Generate Mneumonic. ​Copy the resulting mneumonic displayed for safe keeping.
 
