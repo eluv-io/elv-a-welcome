@@ -18,7 +18,7 @@ The following quick start steps will allow you to create and onboard content adm
 
 ![image](https://user-images.githubusercontent.com/30604947/129946672-b57b92c3-b3c1-494b-b6a5-1022ebc89f56.png)
 
-4.	Set the default password (in the Password option) to your desired wallet password. This password secures the local encyrpted storage of your private key.
+4.	Set the default password (in the Password option) to your desired wallet password. This password secures the local enrypted storage of your private key.
 5.	Click ​Submit​. This will display the Account with no name and display a message that the account has insufficient funds. Copy the Address for the account (the long hexadecimal string) and paste into slack/email to Eluvio. Eluvio will add funds.
 
 ![image](https://user-images.githubusercontent.com/30604947/129946713-43f13ef4-19d5-41d8-aa3b-a1484612266a.png)
