@@ -13,8 +13,8 @@ The following quick start steps will allow you to create and onboard content adm
 
 **THEN**
 
-2.	Click ​Accounts​, ​Add Account,​ and ​Mneumonic
-3.	Click ​Generate Mneumonic. ​Copy the resulting mneumonic displayed for safe keeping. Note: this mneumonic is the only recovery path for your private key and thus you MUST NOT lose it.
+2.	Click ​Accounts​, ​Add Account,​ and ​Mnemonic
+3.	Click ​Generate Mnemonic. ​Copy the resulting mnemonic displayed for safe keeping. **NOTE: this mnemonic is the only recovery path for your private key and thus you MUST NOT lose it!**
 
 ![image](https://user-images.githubusercontent.com/30604947/129946672-b57b92c3-b3c1-494b-b6a5-1022ebc89f56.png)
 
