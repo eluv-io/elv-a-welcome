@@ -33,7 +33,7 @@ The following quick start steps will allow you to create and onboard content adm
 **Overview of Key APIs and Tools**
 
 **Client APIs**
-- Start https://eluv-io.github.io/elv-client-js/ElvClient.html for an overview of the client API for publishing, playout, viewing, and minting.
+- Start https://github.com/eluv-io/elv-client-js/blob/master/README.md for an overview of the client API for publishing, playout, viewing, and minting.
 - To publish full length content start here https://eluv-io.github.io/elv-client-js/abr/index.html
 
 **Here are a few particular topics of interest:**
