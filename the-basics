@@ -81,3 +81,5 @@ Initializing the client is as simple as pointing it at the appropriate Eluvio co
 const client = await ElvClient.FromConfigurationUrl({
   configUrl: "https://main.net955305.contentfabric.io/config"
 });
+
+Content Fabric APIs - https://host-76-74-91-6.contentfabric.io/doc?header-referer=https%3A%2F%2Fwww.google.com%2F&redirected=true#content-fabric-api
