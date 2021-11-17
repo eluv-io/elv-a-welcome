@@ -2,8 +2,10 @@ For blockchain aficionados that want to dive right in, you can get the Content F
 
 Main network
 https://main.net955305.contentfabric.io/config
-Demo network - *the contract you are using above is deployed on the demo network*
+
+Demo network 
 https://demov3.net955210.contentfabric.io/config
+
 This endpoint returns the optimal nodes relative to your client (local and currently available) for the Fabric blockchain RPC endpoints ("eth locators"), as well as content serving, etc.  
 
 For example:
